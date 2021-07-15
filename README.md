@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Varadarajreddy
-- 👀 I’m interested in coding in front end and backend
+- 👀 I’m interested to coding in front end and backend
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on various full stack developers.
 - 📫 you can reach me @ vr20aaj@outlook.com
