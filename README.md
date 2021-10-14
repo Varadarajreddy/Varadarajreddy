@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Varadarajreddy
+- 👋 Hi, I’m Varadarajulu
 - 👀 I’m interested to code in front end and backend
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate with various full stack developers.
